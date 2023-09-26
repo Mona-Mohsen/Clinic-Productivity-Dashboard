@@ -2,7 +2,7 @@
 Dashboard for Clinics Productivity
 
 # Overview
-A dashboard for clinic productivity provides a visual representation of key metrics and data related to the efficiency and performance of a healthcare clinic. It helps clinic managers and administrators monitor operations, identify areas for improvement, and make data-driven decisions to optimize productivity. Here are some essential components that can be included in a clinic productivity dashboard:
+A dashboard for clinic productivity provides a visual representation of key metrics and data related to the efficiency and performance of a healthcare clinic. It helps clinic managers and administrators monitor operations, identify areas for improvement, and make data-driven decisions to optimize productivity. Here are some essential components that are included in a clinic productivity dashboard:
 
 1. Appointment Metrics: This section displays the total number of appointments scheduled, completed, and canceled within a specific timeframe. It helps track appointment volume and assess the overall clinic's scheduling efficiency.
 
